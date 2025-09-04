@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+ol {
+  margin-left: 25px;
+}
+
+em {
+  font-style: italic;
+}
